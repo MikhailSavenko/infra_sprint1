@@ -1,0 +1,5 @@
+IP: 158.160.72.90;
+name_taski: https://taskisaski.hopto.org;
+name_kittygram: https://kittygramwtf.hopto.org;
+login: mikesave;
+password: smv6655286;
